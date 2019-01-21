@@ -146,8 +146,8 @@ Linux tools
            
 3.啟用插件
 ---
-   1.im-config
-   2.reboot
+      1.im-config
+      2.reboot
 
 
   
