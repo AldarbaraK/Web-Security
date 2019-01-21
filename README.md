@@ -149,7 +149,19 @@ Linux tools
       1.im-config
       2.reboot
 
-
+關於爬蟲
+===
+      1.創一個pytohn檔 hint:vim name.py
+      2.輸入程式碼:
+      
+```python
+import requests
+from bs4 import BeautifulSoup as bs
+url = 'https://ischool.dali.tc.edu.tw/ischool/publish_page/0/'
+r = requests.get(url)
+r.encoding = "utf-8"
+print(r.text)  
+```
   
 
 
