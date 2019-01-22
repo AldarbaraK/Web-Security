@@ -142,7 +142,12 @@ Linux tools
   ### pip
     專門安裝python 的package
     * 用法：pip install <package_name>
-           pip uninstall <package_name>
+           pip uninstall <package_name>           
+  ### gcin
+      # apt-get update
+      # apt-get install libappindicator1
+      # apt-get install gcin
+  
            
 3.啟用插件
 ---
